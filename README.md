@@ -6,8 +6,8 @@
   
   <p1>To start working with jupyter notebook, I highly reccomend using Anaconda distro.<p1>
 
-<h4>Install Opencv on Anaconda.<h4>
+<h3>Install Opencv on Anaconda.<h3>
   <p>conda install opencv<p>
-<h4>Install Opencv using pip<h4>
+<h3>Install Opencv using pip<h3>
   <p>pip install opencv-python<p>
   <p>Or pip3 if using linux or mac<p>

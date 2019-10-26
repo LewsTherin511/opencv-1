@@ -1,7 +1,7 @@
 # Computer Vision Course for beginners.
 
 ### This course is written in python with opencv as the major library.
-This course expects that you have basic understanding of python3 programming la$
+This course expects that you have intermediate understanding of python3 programming language. This is highly recommended to use jupyter-notebooks (.ipynb) which enables beautiful visualizations.
 
 ## Install opencv using conda
 > conda update --all

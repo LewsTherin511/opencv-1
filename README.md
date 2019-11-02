@@ -12,3 +12,5 @@ This course expects that you have intermediate understanding of python3 programm
 
 ## OpenCV Projects
 <a href='https://github.com/sahil2kuppal/finger_counter'>Finger Counter</a>
+<br />
+<a href='https://github.com/AdityaAtri/invisible_man'>Invisible Man</a>
